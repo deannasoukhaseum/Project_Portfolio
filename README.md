@@ -10,10 +10,10 @@ This is a repository to showcase my skills and share my Data Analytics projects.
 ## Projects
 
 ### Predicting Academic Success
-**Dataset:**  
+**Dataset:** [Test_Scores_Dataset](./Test_Scores_Dataset.csv)  
 **Code:**  
-**Final Report:**
-**Final Presentation:**
+**Final Report:** [Academic_Success_Paper_Redacted](./Academic_Success_Paper_Redacted.pdf)  
+**Final Presentation:** [Academic_Success_Presentation_Redacted](./Academic_Success_Presentation_Redacted.pdf)
 
 **Goal:** To use machine learning techniques to predict students' grades and determine which factors contribute most to academic success.  
 **Technology:**  
