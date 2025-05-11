@@ -10,10 +10,10 @@ This is a repository to showcase my skills and share my Data Analytics projects.
 ## Projects
 
 ### Predicting Academic Success
-**Dataset:** [Test_Scores_Dataset](./Predicting_Academic_Success/Test_Scores_Dataset.csv)  
-**Code:**  
-**Final Report:** [Academic_Success_Paper_Redacted](./Predicting_Academic_Success/Academic_Success_Paper_Redacted.pdf)  
-**Final Presentation:** [Academic_Success_Presentation_Redacted](./Predicting_Academic_Success/Academic_Success_Presentation_Redacted.pdf)
+**Dataset:** [Test_Scores_Dataset.csv](./Predicting_Academic_Success/Test_Scores_Dataset.csv)  
+**Code:** [Predict_Test_Scores.ipynb](./Predicting_Academic_Success/Predict_Test_Scores.ipynb)  
+**Final Report:** [Academic_Success_Paper_Redacted.pdf](./Predicting_Academic_Success/Academic_Success_Paper_Redacted.pdf)  
+**Final Presentation:** [Academic_Success_Presentation_Redacted.pdf](./Predicting_Academic_Success/Academic_Success_Presentation_Redacted.pdf)
 
 **Goal:** To use machine learning techniques to predict students' grades and determine which factors contribute most to academic success.  
-**Technology:**  
+**Skills/Technologies Used:** Python, Data Cleaning, EDA, PCA, Pandas, Matplotlib, Linear Regression, KNN Regressor, Decision Trees, Random Forest, Neural Networks, K-Fold Cross-Validation
