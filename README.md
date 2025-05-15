@@ -30,4 +30,4 @@ This is a repository to showcase my skills and share my Data Analytics projects.
 
 **Goal:** To design a database for our chosen domain, the National Hockey League. In Part I, we designed an Entity Relationship Diagram (ERD) for our proposed database, outlining key entities and relationships. In Part II, we then translated our ERD into a relational schema before creating the database with SQL queries. We populated this database with sample data and included several queries to justify how this database can be useful for managers in the NHL.  
 
-**Skills/Technologies Used:** ERDs, SQL, pgAdmin, PostgreSQL, Joins, Aggregate Functions, Subqueries  
+**Skills/Technologies Used:** ERD, Lucidchart, SQL, pgAdmin, PostgreSQL, Joins, Aggregate Functions, Subqueries  
