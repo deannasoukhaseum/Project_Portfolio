@@ -5,7 +5,7 @@ Hi, my name is Deanna. I am a senior studying Business Analytics and Finance at 
 
 I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skill set. Whether working on a team or independently, I am driven by the excitement of discovering new insights and the satisfaction of using data to solve real-world problems. Overall, I am eager to bring these technical and analytical skills to my future career.
 
-This is a repository to showcase my skills and share my Data Analytics projects.
+This is a repository to showcase my skills and share my projects.
 
 ## Projects
 
