@@ -38,4 +38,4 @@ This is a repository to showcase my skills and share my projects.
 
 **Goal:** To develop a develop and present a new product idea, culminating in a business plan that integrates financial, marketing, operational, and risk decisions. 
 
-**Skills/Technologies Used:** Excel, Product Design, Market Research (Conjoint Analysis, Segmentation Tree, BASES Model), Financial Analysis (Three-Statement Financial Modeling, Financial Statements Analysis, Sensitivity Analysis, Monte Carlo Simulations), Operations Management (Capacity Analysis, Process Flow Optimation, Service Level Planning, Center Of Gravity Analysis), Strategic Marketing (Integrated Marketing Communications Planning, Social Media Strategy)
+**Skills/Technologies Used:** Excel, Product Design, Market Research (Conjoint Analysis, Segmentation Tree, BASES Model), Financial Analysis (Three-Statement Financial Modeling, Financial Statement Analysis, Sensitivity Analysis, Monte Carlo Simulations), Operations Management (Capacity Analysis, Process Flow Optimation, Service Level Planning, Center Of Gravity Analysis), Strategic Marketing (Integrated Marketing Communications Planning, Social Media Strategy)
