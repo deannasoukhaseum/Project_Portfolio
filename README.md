@@ -31,3 +31,11 @@ This is a repository to showcase my skills and share my projects.
 **Goal:** To design a database for our chosen domain, the National Hockey League. In Part I, we designed an Entity Relationship Diagram (ERD) for our proposed database, outlining key entities and relationships. In Part II, we then translated our ERD into a relational schema before creating the database with SQL queries. We populated this database with sample data and included several queries to justify how this database can be useful for managers in the NHL.  
 
 **Skills/Technologies Used:** ERD, Lucidchart, SQL, pgAdmin, PostgreSQL, Joins, Aggregate Functions, Subqueries  
+
+### Swift Shift Product Strategy
+**Final Pitchbook:** [Swift_Shift_Pitchbook_Redacted.pdf](./Swift_Shift/Swift_Shift_Pitchbook_Redacted.pdf)  
+**Final Excel Workbook:** [Swift_Shift_Integrated_Workbook.xlsx](./Swift_Shift/Swift_Shift_Integrated_Workbook.xlsx)  
+
+**Goal:** To develop a develop and present a new product idea, culminating in a business plan that integrates financial, marketing, operational, and risk decisions. 
+
+**Skills/Technologies Used:** Excel, Product Design, Market Research (Conjoint Analysis, Segmentation Tree, BASES Model), Financial Analysis (Three Statement Forecasting, Financial Statements Analysis, Sensitivity Analysis, Monte Carlo Simulations), Operations Management (Capacity Analysis, Process Flow Optimation, Service Level Planning, Center Of Gravity Analysis), Strategic Marketing (Integrated Marketing Communications Planning, Social Media Strategy)
